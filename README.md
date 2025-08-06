@@ -22,7 +22,7 @@ I only contribute to projects that I deeply admire.
 `minor`  
 [#2299](https://github.com/google-gemini/gemini-cli/pull/2299) 
 
-`in-flight`  
+`moving`  
 [#4924](https://github.com/google-gemini/gemini-cli/pull/4924) 
 
 
