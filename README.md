@@ -1,7 +1,8 @@
 ### Open Source Portfolio
+I only contribute to projects that I deeply admire.
 
 #### Vercel AI SDK
-> *Motivation:* The Vercel AI SDK is the best application layer abstraction for AI software. And it's in Typescript.
+> The Vercel AI SDK is the best application layer abstraction for AI software. And it's in Typescript.
 
 `major`  
 [#6463](https://github.com/vercel/ai/pull/6463)
@@ -10,7 +11,7 @@
 [#7804](https://github.com/vercel/ai/pull/7804)
 
 #### Google Gemini CLI
-> *Motivation:* For the millions who struggle to afford their first laptop, the Gemini CLI's free plan is the only real AI CLI option.
+> For the millions who struggle to afford their first laptop, the Gemini CLI's free plan is the only real AI CLI option.
 
 `major`  
 [#3727](https://github.com/google-gemini/gemini-cli/pull/3727)
