@@ -16,10 +16,10 @@
 [#3727](https://github.com/google-gemini/gemini-cli/pull/3727)
 
 `medium`  
-[#3611](https://github.com/google-gemini/gemini-cli/pull/3611)
+[#3611](https://github.com/google-gemini/gemini-cli/pull/3611) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056)
 
 `minor`  
-[#2299](https://github.com/google-gemini/gemini-cli/pull/2299) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056)
+[#2299](https://github.com/google-gemini/gemini-cli/pull/2299) 
 
 `in-flight`  
 [#4924](https://github.com/google-gemini/gemini-cli/pull/4924) 
