@@ -2,7 +2,7 @@
 I only contribute to projects that I deeply admire.
 
 #### Vercel AI SDK
-> The Vercel AI SDK is the _best_ application layer abstraction for AI software. And it's in Typescript.
+> Vercel's AI SDK is the _best_ application layer abstraction for AI software. And it's in Typescript.
 
 `major`  
 [#6463](https://github.com/vercel/ai/pull/6463)
