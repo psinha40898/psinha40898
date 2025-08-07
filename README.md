@@ -17,7 +17,7 @@ I only contribute to projects that I deeply admire.
 [#3727](https://github.com/google-gemini/gemini-cli/pull/3727)
 
 `medium`  
-[#3611](https://github.com/google-gemini/gemini-cli/pull/3611) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056)
+[#3611](https://github.com/google-gemini/gemini-cli/pull/3611) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056) | [#5102](https://github.com/google-gemini/gemini-cli/pull/5102) 
 
 `minor`  
 [#2299](https://github.com/google-gemini/gemini-cli/pull/2299) 
