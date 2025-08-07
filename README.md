@@ -1,5 +1,7 @@
 ### Open Source Portfolio
-I only contribute to projects that I deeply admire.
+I contribute to projects that I deeply admire. 
+
+Merged contributions:
 
 #### Vercel AI SDK
 > Vercel's AI SDK is the _best_ application layer abstraction for AI software. And it's in Typescript.
@@ -22,8 +24,6 @@ I only contribute to projects that I deeply admire.
 `minor`  
 [#2299](https://github.com/google-gemini/gemini-cli/pull/2299) 
 
-`moving`  
-[#4924](https://github.com/google-gemini/gemini-cli/pull/4924) 
 
 
 
