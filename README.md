@@ -1,10 +1,7 @@
 ### Open Source Portfolio
-I contribute to projects that I deeply admire. 
-
-Merged contributions:
 
 #### Vercel AI SDK
-> Vercel's AI SDK is the _best_ application layer abstraction for AI software. And it's in Typescript.
+
 
 `major`  
 [#6463](https://github.com/vercel/ai/pull/6463)
@@ -13,7 +10,6 @@ Merged contributions:
 [#7804](https://github.com/vercel/ai/pull/7804)
 
 #### Google Gemini CLI
-> For the millions who struggle to afford their first laptop, the Gemini CLI's free plan is the _only_ real AI CLI option.
 
 `major`  
 [#3727](https://github.com/google-gemini/gemini-cli/pull/3727)
