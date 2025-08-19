@@ -18,7 +18,7 @@
 [#3611](https://github.com/google-gemini/gemini-cli/pull/3611) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056) | [#5102](https://github.com/google-gemini/gemini-cli/pull/5102) 
 
 `minor`  
-[#2299](https://github.com/google-gemini/gemini-cli/pull/2299) 
+[#2299](https://github.com/google-gemini/gemini-cli/pull/2299) | [#6282](https://github.com/google-gemini/gemini-cli/pull/6282)
 
 
 
