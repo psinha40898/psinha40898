@@ -1,4 +1,4 @@
-### Open Source Portfolio 2025
+### Open Source Portfolio Summer 2025
 
 #### Vercel AI SDK
 
