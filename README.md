@@ -22,7 +22,7 @@
 [#7804](https://github.com/vercel/ai/pull/7804) | [#8003](https://github.com/vercel/ai/pull/8003)
 
 `minor`  
-[#7804](https://github.com/vercel/ai/pull/8236) | [#7804](https://github.com/vercel/ai/pull/8482)
+[#8236](https://github.com/vercel/ai/pull/8236) | [#8482](https://github.com/vercel/ai/pull/8482)
 
 <!--
 **psinha40898/psinha40898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
