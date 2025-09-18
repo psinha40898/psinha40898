@@ -1,17 +1,5 @@
 ### Open Source Portfolio Summer 2025
 
-#### Vercel AI SDK
-
-
-`major`  
-[#6463](https://github.com/vercel/ai/pull/6463)
-
-`medium`  
-[#7804](https://github.com/vercel/ai/pull/7804) | [#8003](https://github.com/vercel/ai/pull/8003)
-
-`minor`  
-[#7804](https://github.com/vercel/ai/pull/8236) | [#7804](https://github.com/vercel/ai/pull/8482)
-
 #### Google Gemini CLI
 
 `major`  
@@ -24,7 +12,17 @@
 [#2299](https://github.com/google-gemini/gemini-cli/pull/2299) | [#6282](https://github.com/google-gemini/gemini-cli/pull/6282) | [#4652](https://github.com/google-gemini/gemini-cli/pull/4652)
 
 
+#### Vercel AI SDK
 
+
+`major`  
+[#6463](https://github.com/vercel/ai/pull/6463)
+
+`medium`  
+[#7804](https://github.com/vercel/ai/pull/7804) | [#8003](https://github.com/vercel/ai/pull/8003)
+
+`minor`  
+[#7804](https://github.com/vercel/ai/pull/8236) | [#7804](https://github.com/vercel/ai/pull/8482)
 
 <!--
 **psinha40898/psinha40898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
