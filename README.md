@@ -9,6 +9,9 @@
 `medium`  
 [#7804](https://github.com/vercel/ai/pull/7804) | [#8003](https://github.com/vercel/ai/pull/8003)
 
+`minor`  
+[#7804](https://github.com/vercel/ai/pull/8236) | [#7804](https://github.com/vercel/ai/pull/8482)
+
 #### Google Gemini CLI
 
 `major`  
