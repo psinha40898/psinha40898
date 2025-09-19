@@ -1,4 +1,4 @@
-### Merged Pull Requests
+### Open Source Contributions
 
 ##### May 2025 - Present
 
