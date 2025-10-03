@@ -1,6 +1,5 @@
-### Open Source
-
-##### May 2025 - Present
+### Open Source 
+###### May 2025 - Present
 
 #### Google Gemini CLI
 
