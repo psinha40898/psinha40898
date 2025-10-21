@@ -10,7 +10,7 @@
 [#7656](https://github.com/google-gemini/gemini-cli/pull/7656) |[#3611](https://github.com/google-gemini/gemini-cli/pull/3611) | [#3056](https://github.com/google-gemini/gemini-cli/pull/3056) | [#5102](https://github.com/google-gemini/gemini-cli/pull/5102) 
 
 `minor`  
-[#2299](https://github.com/google-gemini/gemini-cli/pull/2299) | [#6282](https://github.com/google-gemini/gemini-cli/pull/6282) | [#4652](https://github.com/google-gemini/gemini-cli/pull/4652) | [#11323](https://github.com/google-gemini/gemini-cli/pull/11323) | [#11522](https://github.com/google-gemini/gemini-cli/pull/11522)
+  [#6282](https://github.com/google-gemini/gemini-cli/pull/6282) | [#4652](https://github.com/google-gemini/gemini-cli/pull/4652) | [#11323](https://github.com/google-gemini/gemini-cli/pull/11323) | [#11522](https://github.com/google-gemini/gemini-cli/pull/11522) | [#2299](https://github.com/google-gemini/gemini-cli/pull/2299)
 
 
 #### Vercel AI SDK
