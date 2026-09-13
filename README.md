@@ -7,4 +7,3 @@ I also have smaller contributions to the Vercel AI SDK and hope to get back to c
 
 [Full list of merged PRs in Vercel AI SDK](https://github.com/vercel/ai/pulls?q=is%3Apr+is%3Amerged+author%3Apsinha40898)
 
-So forced, so rehearsed
