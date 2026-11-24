@@ -6,5 +6,3 @@ I also have smaller contributions to the Vercel AI SDK
 
 [Full list of merged PRs in Vercel AI SDK](https://github.com/vercel/ai/pulls?q=is%3Apr+is%3Amerged+author%3Apsinha40898)
 
-I hope there's still water in the fountain of youth
-
